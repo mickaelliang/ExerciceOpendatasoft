@@ -1,3 +1,5 @@
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/WDD9TNqfT18vMeoebmwxeHx4mEl5kBO9BOHzmQSMnga2wRYFJsRe6ImPg9JiCDPzoq12O7mIqUdQ7jjHWpdJBZnESMg40hyMatfSuRee"></p>
+
 ## Présentation du nombre de fromages différents produits selon leur département
 <center>
 Voici ci-dessous le nombre de fromages différents produits en fonction de chaque département. Pour l'Ain et l'Aveyron, nous pouvons qu'il y a 13 fromages produits dans ces départements. Cependant, nous pouvons voir que dans l'Eure-et-Loir ou encore dans le Bas-Rhin, il y a très peu de fromages produits : seulement 1 fromage pour chacun de ces départements.
