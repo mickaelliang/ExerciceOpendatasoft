@@ -1,4 +1,4 @@
-# Les fromages en France
+# Les fromages français
 
 <p align="center"><img src="https://www.chaumartinvesoul.fr/images/cremerie/cremerie-fromages2.jpg"></p>
 
