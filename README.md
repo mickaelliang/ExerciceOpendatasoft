@@ -1,4 +1,4 @@
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/WDD9TNqfT18vMeoebmwxeHx4mEl5kBO9BOHzmQSMnga2wRYFJsRe6ImPg9JiCDPzoq12O7mIqUdQ7jjHWpdJBZnESMg40hyMatfSuRee"></p>
+<p align="center"><img src="https://www.barbanews.com/wp-content/uploads/2020/10/assiette-de-fromages.jpg" width="900" height="600" ></p>
 
 ## Présentation du nombre de fromages différents produits selon leur département
 <center>
