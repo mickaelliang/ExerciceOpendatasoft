@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.barbanews.com/wp-content/uploads/2020/10/assiette-de-fromages.jpg" width="600" height="400></p>
+<p align="center"><img src="https://www.chaumartinvesoul.fr/images/cremerie/cremerie-fromages2.jpg"></p>
 
 ## Présentation du nombre de fromages différents produits selon leur département
 <center>
