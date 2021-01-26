@@ -24,7 +24,6 @@ Le recours au lait de chèvre est également plesbiscité puisqu'il arrive en se
 <br/>
 
 ## Requêtes SPARQL avec Wikidata
-<center>
   
 '''sparql
 #Peintures de Claude Monet
@@ -41,4 +40,3 @@ SERVICE wikibase:label
 }
 '''
 
-</center>
