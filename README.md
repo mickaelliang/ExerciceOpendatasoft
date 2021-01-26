@@ -48,5 +48,25 @@ SERVICE wikibase:label
 { bd:serviceParam wikibase:language "fr"
 }
 }
+
+#Peintures de Claude Monet avec les collections et lieux de conservation en option
+#defaultView:ImageGrid
+SELECT ?peinture ?peintureLabel ?lieux ?lieuxLabel
+WHERE
+{
+  ?peinture wdt:P31 wd:Q3305213 .
+  ?peinture wdt:P170 wd:Q296 .
+
+OPTIONAL 
+{ 
+  #en option 
+  ?peinture wdt:P195 ?lieux .
+  
+SERVICE wikibase:label 
+{ 
+  bd:serviceParam wikibase:language "fr"
+}
+}
+}
 '''
 
