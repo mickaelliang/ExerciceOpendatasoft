@@ -28,11 +28,21 @@ Le recours au lait de chèvre est également plesbiscité puisqu'il arrive en se
 '''sparql
 #Peintures de Claude Monet
 #defaultView:ImageGrid
-SELECT distinct ?peinture ?peintureLabel
+SELECT distinct ?peinture
 WHERE
 {
   ?peinture wdt:P31 wd:Q3305213 .
   ?peinture wdt:P170 wd:Q296 .
+}
+
+#Peintures de Claude Monet avec les labels et images associées
+#defaultView:ImageGrid
+SELECT ?peinture ?peintureLabel ?pic
+WHERE
+{
+  ?peinture wdt:P31 wd:Q3305213 .
+  ?peinture wdt:P170 wd:Q296 .
+  ?peinture wdt:P18 ?pic .
 
 SERVICE wikibase:label 
 { bd:serviceParam wikibase:language "fr"
