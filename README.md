@@ -21,6 +21,8 @@ Le recours au lait de chèvre est également plesbiscité puisqu'il arrive en se
 <iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZyb21hZ2VzY3N2LWZyb21hZ2VzY3N2QHB1YmxpYyIsIm9wdGlvbnMiOnsiZGlzanVuY3RpdmUuZnJvbWFnZSI6dHJ1ZSwidGltZXpvbmUiOiJFdXJvcGUvQmVybGluIn19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1TZXQzIiwiY3VtdWxhdGl2ZSI6ZmFsc2UsImRpc3BsYXlWYWx1ZXMiOmZhbHNlLCJkaXNwbGF5U3RhY2tWYWx1ZXMiOnRydWV9XSwieEF4aXMiOiJsYWl0IiwibWF4cG9pbnRzIjoyMDAsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJkZXBhcnRlbWVudCIsInN0YWNrZWQiOiJub3JtYWwifV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=true" width="600" height="450" frameborder="0"></iframe>
 </center>
 
+<br/>
+
 ## Requêtes SPARQL avec Wikidata
 <center>
 '''sparql
@@ -36,5 +38,5 @@ SERVICE wikibase:label
 { bd:serviceParam wikibase:language "fr"
 }
 }
-''''
+'''
 </center>
