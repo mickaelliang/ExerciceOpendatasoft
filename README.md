@@ -26,7 +26,11 @@ Le recours au lait de chèvre est également plesbiscité puisqu'il arrive en se
 ## Requêtes SPARQL avec Wikidata
 <center>
   
-"""sparql
+'''sparql
+PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 #Peintures de Claude Monet
 #defaultView:ImageGrid
 SELECT distinct ?peinture ?peintureLabel
@@ -39,6 +43,6 @@ SERVICE wikibase:label
 { bd:serviceParam wikibase:language "fr"
 }
 }
-"""
+'''
 
 </center>
